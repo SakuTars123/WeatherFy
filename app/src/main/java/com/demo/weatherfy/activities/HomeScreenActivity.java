@@ -82,7 +82,7 @@ public class HomeScreenActivity extends AppCompatActivity {
                 cityToLatLanImpl cityToLatLan = new cityToLatLanImpl(requestQueue, weatherAdapter,context,recyclerViewCityData);
                 LoadingBar.LoadingTime(context,getResources(),true);
                 cityToLatLan.GetLatLanFromCity(city);
-                recyclerViewCityData.setVisibility(View.VISIBLE);
+                recyclerViewCityData.setVisibility(View.INVISIBLE);
                 return false;
             }
 
