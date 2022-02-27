@@ -3,7 +3,7 @@
 
 WeatherFy Application is an android based web application for accessing the hourly climate report across various cities around world.
 
-Android SDK. Some external libraries as:
+Built using Android SDK and Some external libraries as:
 
 - Lombok
 - Volley
@@ -18,6 +18,7 @@ Android SDK. Some external libraries as:
 
 
 ## User Journey
+[![Intro Page](https://i.ibb.co/5GJYbm7/Untitled-Diagram-drawio-1.png "Intro Page")](https://ibb.co/ydxhHt3")
 
 
 ## Improvements [Coming Further]
